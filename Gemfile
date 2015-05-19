@@ -1,5 +1,6 @@
 #source 'https://rubygems.org'
-source 'http://mirrors.aliyun.com/rubygems/'
+#source 'http://mirrors.aliyun.com/rubygems/'
+source 'http://ruby.taobao.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
